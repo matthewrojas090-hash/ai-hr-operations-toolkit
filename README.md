@@ -12,6 +12,7 @@ This portfolio project draws on Matthew Rojas's experience in recruiting leaders
 
 | Resource | HR need | Output |
 |---|---|---|
+| [AI Policy-to-FAQ Builder](policy-operations/policy-to-faq-builder.md) | Employees need clear answers to routine policy questions | Source-linked FAQ draft, unanswered-question queue, and publication checklist |
 | [AI Employee Onboarding Plan Builder](onboarding/employee-onboarding-plan-builder.md) | Onboarding information is scattered across teams and documents | Preboarding checklist, first-week plan, 30/60/90-day milestones, ownership map, risks, and employee-facing plan |
 | [AI Manager One-on-One Organizer](manager-enablement/manager-one-on-one-organizer.md) | Managers need consistent preparation, factual follow-up, and clear ownership without automated employee ratings | Employee-centered agenda, preparation questions, factual recap, action register, and next-meeting starter |
 
