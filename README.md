@@ -12,6 +12,7 @@ This portfolio project draws on Matthew Rojas's experience in recruiting leaders
 
 | Resource | HR need | Output |
 |---|---|---|
+| [AI HR Use-Case Pilot Planner](responsible-ai/hr-ai-use-case-pilot-planner.md) | HR AI ideas need a controlled test before expansion | Pilot scope, synthetic test pack, measurement plan, review gates, and human decision brief |
 | [AI HR Service Workload Scenario Planner](workforce-planning/hr-service-workload-scenario-planner.md) | HR service demand and capacity need transparent planning assumptions | Aggregate workload calculations, scenario comparisons, uncertainty review, and a leadership brief |
 | [AI Training-to-Practice Planner](learning-development/training-to-practice-planner.md) | Training needs practical exercises and useful follow-up | Source-linked practice plan, facilitator guidance, learning evidence, and improvement log |
 | [AI HR Process Handoff Builder](hr-operations/process-handoff-builder.md) | Recurring HR processes need clear instructions and ownership when work changes hands | Source-linked operating guide, ownership map, handoff checklist, and human confirmation queue |
