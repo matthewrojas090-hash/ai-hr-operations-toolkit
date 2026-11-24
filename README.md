@@ -12,6 +12,7 @@ This portfolio project draws on Matthew Rojas's experience in recruiting leaders
 
 | Resource | HR need | Output |
 |---|---|---|
+| [AI HR Service Routing Test Kit](hr-service-delivery/hr-service-routing-test-kit.md) | HR teams need to test where requests go before changing intake rules | Synthetic test cases, routing gaps, and a retest log |
 | [AI HR Policy Change Rollout Planner](policy-operations/hr-policy-change-rollout-planner.md) | HR teams need clear instructions when approved processes change | Rollout checklist, transition questions, and a draft employee announcement |
 | [AI Offboarding Closure Checker](offboarding/offboarding-closure-checker.md) | Offboarding tasks need evidence before closure | Evidence review, unresolved items, and a human closure checklist |
 | [AI HR Use-Case Pilot Planner](responsible-ai/hr-ai-use-case-pilot-planner.md) | HR AI ideas need a controlled test before expansion | Pilot scope, synthetic test pack, measurement plan, review gates, and human decision brief |
